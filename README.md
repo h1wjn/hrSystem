@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Yo人事管理系统</h1>
+<h1>人事管理系统</h1>
 <h4>一款前后端分离的人事管理系统</h4>
 <h4 style="color: #38d39f">前端技术栈：Vue + Element-UI + Axios</h4>
 <h4 style="color: #00BFFF">后端技术栈：Spring Boot + Mybatis + Spring Security + MySQL + Redis + RabbitMQ + Docker</h4>
